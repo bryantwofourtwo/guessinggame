@@ -12,7 +12,7 @@ if(guess === secretNum) {
 }
 // otherwise check if higher
 else if(guess > secretNum) {
-    console.log("Too much number, must less");
+    console.log("Too much number, must less more");
 }  
 // otherwise check if lower
 else {
