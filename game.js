@@ -1,17 +1,17 @@
 
 console.log("Hi there!");
 // create secretb number
-var secretNum = 4;
+var secretNums = 4;
 
 // ask user for guess
 var stringGuess = prompt("Guess a number");
 var guess = Number(stringGuess);
 // check if guess is correct
-if(guess === secretNum) {
+if(guess === secretNums) {
     console.log("You are correct!!!!");
 }
 // otherwise check if higher
-else if(guess > secretNum) {
+else if(guess > secretNums) {
     console.log("Too much number, must less more");
 }  
 // otherwise check if lower
