@@ -1,5 +1,5 @@
 
-console.log("Hi there!");
+console.log("Hi there beautiful!");
 // create secretb number
 var secretNum = 5;
 
