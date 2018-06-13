@@ -1,7 +1,7 @@
 
 console.log("Hi there beautiful!");
 // create secretb number
-var secretNum = 3;
+var secretNum = 5;
 
 // ask user for guess
 var stringGuess = prompt("Guess a number");
